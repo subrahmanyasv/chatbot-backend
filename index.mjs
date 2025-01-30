@@ -1,3 +1,5 @@
+//entry point for the server
+
 import express from "express";
 import dotenv from "dotenv";
 import "./components/WebSocket.js"

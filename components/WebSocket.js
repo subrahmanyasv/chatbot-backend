@@ -1,3 +1,4 @@
+//Web socket file
 import { createServer } from "http";
 import { WebSocketServer } from "ws";
 import handleMessage from "./OpenAi.js"; // Import Gemini function

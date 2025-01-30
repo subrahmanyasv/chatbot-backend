@@ -1,3 +1,5 @@
+// OpenAi.js is a helper function that uses the GoogleGenerativeAI class to interact with the gemini app.
+
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from "dotenv";
 

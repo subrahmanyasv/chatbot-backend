@@ -45,3 +45,9 @@ You can use applications like **postman** to test the backend code.
 - **Gemini API** - AI response generation
 ---
 
+## Future enhancements
+- Integrating the database to store user data
+- Enhance error handling and logging
+- Implement authentication and authorization
+- WebSocket connection management
+
